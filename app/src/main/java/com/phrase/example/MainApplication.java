@@ -10,7 +10,7 @@ public class MainApplication extends Application {
     public void onCreate() {
         super.onCreate();
 
-        Phrase.setup(this, "", "");
+        Phrase.setup(this, "8e1f1b1ddddf056b9e377ad69e4416fc", "HVFDaiW7AsdQot0ih06Iw05uClnmv423Y--PInURrkw");
         Phrase.updateTranslations();
     }
 

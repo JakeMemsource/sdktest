@@ -1,5 +1,7 @@
 phraseapp:
-  project_id: <PROJECT_ID>
+  access_token: "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"
+  
+  project_id: "c1cc5edd132b37daf404323dfacbb7f4"
   push:
     sources:
     - file: ./app/src/main/res/values/strings.xml

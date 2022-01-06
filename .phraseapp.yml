@@ -4,11 +4,11 @@ phraseapp:
   project_id: "c1cc5edd132b37daf404323dfacbb7f4"
   push:
     sources:
-    - file: ./app/src/main/res/values/strings.xml
+    - file: "./app/src/main/res/values/strings.xml"
       params:
-        file_format: xml
+        file_format: "xml"
   pull:
     targets:
-    - file: ./app/src/main/res/values-<locale_code>/strings.xml
+    - file: "./app/src/main/res/values-<locale_code>/strings.xml"
       params:
-        file_format: xml
+        file_format: "xml"

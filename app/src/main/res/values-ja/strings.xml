@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">OTA の例</string>
+    <string name="app_subtitle">フレーズから</string>
+    <string name="hello_world">こんにちは世界！</string>
+</resources>
